@@ -1,1 +1,7 @@
+@use 'partials/film-projet';
+@use 'partials/variables';
 @use 'partials/top-picks';
+
+body {
+    background-color: variables.$primary;
+}
