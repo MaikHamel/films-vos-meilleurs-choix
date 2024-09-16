@@ -10,8 +10,6 @@
         &__btn{
             @include text.small-cap;
             color: color.complement(variables.$primary);
-
-
             width:100%;
             margin: 5px 0;
             border:0;
